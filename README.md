@@ -60,7 +60,8 @@ httpd.serve_forever()
 ```
 
 ## OUTPUT:
-![Alt text](image.png)
+![image](https://github.com/Barath0271/simplewebserver/assets/135820464/7d0d87a3-e1dc-40ad-b6a9-74b3209f6c34)
+
 
 
 ## RESULT:
